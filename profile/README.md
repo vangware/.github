@@ -1,1 +1,1 @@
-![Vangware](./logo.svg)
+[![Vangware](https://raw.githubusercontent.com/vangware/.github/main/profile/logo.svg)](https://vangware.com)
