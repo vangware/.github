@@ -4,17 +4,17 @@ We embrace bleeding-edge web technologies to create high-quality and long-lastin
 
 ## Open Source Libraries
 
--   [🖇️ react-pair](https://react-pair.vangware.com/)
--   [🖇️ preact-pair](https://preact-pair.vangware.com/)
--   [⏲️ @vangware/cron](https://cron.vangware.com/)
--   [🪟 @vangware/window-open-promise](https://window-open-promise.vangware.com/)
--   [🔁 @vangware/iterables](https://iterables.vangware.com/)
--   [👁️‍🗨️ @vangware/parsers](https://parsers.vangware.com/)
--   [🧐 @vangware/predicates](https://predicates.vangware.com/)
--   [⚒️ @vangware/utils](https://utils.vangware.com/)
--   [✅ @vangware/test](https://test.vangware.com/)
--   [📟 @vangware/ansi](https://ansi.vangware.com/)
--   [❓ @vangware/prompts](https://prompts.vangware.com/)
--   [🚧 @vangware/create-package](https://create-package.vangware.com/)
--   [⚙️ @vangware/configs](https://configs.vangware.com/)
--   [🏷️ @vangware/types](https://types.vangware.com/)
+-   [🖇️ react-pair](https://react-pair.vangware.com/) - Util to help with the paired hook pattern in React.
+-   [🖇️ preact-pair](https://preact-pair.vangware.com/) - Util to help with the paired hook pattern in Preact.
+-   [⏲️ @vangware/cron](https://cron.vangware.com/) - Cron Quartz and Cron UNIX expression parser.
+-   [🪟 @vangware/window-open-promise](https://window-open-promise.vangware.com/) - Promised `globalThis.open()`.
+-   [🔁 @vangware/iterables](https://iterables.vangware.com/) - Iterable and AsyncIterable utils.
+-   [👁️‍🗨️ @vangware/parsers](https://parsers.vangware.com/) - Parsers without nonsense.
+-   [🧐 @vangware/predicates](https://predicates.vangware.com/) - Predicate util functions
+-   [⚒️ @vangware/utils](https://utils.vangware.com/) - Functional utils.
+-   [✅ @vangware/test](https://test.vangware.com/) - Legible deep-equality tests.
+-   [📟 @vangware/ansi](https://ansi.vangware.com/) - Functional CLI ANSI formatter.
+-   [❓ @vangware/prompts](https://prompts.vangware.com/) - CLI interactive prompts.
+-   [🚧 @vangware/create-package](https://create-package.vangware.com/) - Project creation script.
+-   [⚙️ @vangware/configs](https://configs.vangware.com/) - Project configurations.
+-   [🏷️ @vangware/types](https://types.vangware.com/) - Shared types.
