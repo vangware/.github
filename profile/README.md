@@ -1,4 +1,4 @@
-<a href="https://vangware.com"><img src="./logo.svg" style="height:4rem" /></a>
+<a href="https://vangware.com"><img src="https://raw.githubusercontent.com/vangware/.github/main/profile/logo.svg" style="height:4rem" /></a>
 
 We embrace bleeding-edge web technologies to create high-quality and long-lasting software.
 
