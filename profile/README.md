@@ -8,6 +8,7 @@ We embrace bleeding-edge web technologies to create high-quality and long-lastin
 -   [🖇️ preact-pair](https://preact-pair.vangware.com/) - Util to help with the paired hook pattern in Preact.
 -   [⏲️ @vangware/cron](https://cron.vangware.com/) - Cron Quartz and Cron UNIX expression parser.
 -   [🪟 @vangware/window-open-promise](https://window-open-promise.vangware.com/) - Promised `globalThis.open()`.
+-   [📣 @vangware/notify](https://notify.vangware.com/) - Minimalistic Pub/Sub implementation.
 -   [🔁 @vangware/iterables](https://iterables.vangware.com/) - Iterable and AsyncIterable utils.
 -   [👁️‍🗨️ @vangware/parsers](https://parsers.vangware.com/) - Parsers without nonsense.
 -   [🧐 @vangware/predicates](https://predicates.vangware.com/) - Predicate util functions
