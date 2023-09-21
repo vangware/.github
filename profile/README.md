@@ -4,18 +4,40 @@ We embrace bleeding-edge web technologies to create high-quality and long-lastin
 
 ## Open Source Libraries
 
--   [🖇️ react-pair](https://libraries.vangware.com/modules/react_pair.html) - Util to help with the paired hook pattern in React.
--   [🖇️ preact-pair](https://libraries.vangware.com/modules/preact_pair.html) - Util to help with the paired hook pattern in Preact.
--   [⏲️ @vangware/cron](https://libraries.vangware.com/modules/_vangware_cron.html) - Cron Quartz and Cron UNIX expression parser.
--   [🪟 @vangware/window-open-promise](https://libraries.vangware.com/modules/_vangware_window_open_promise.html) - Promised `globalThis.open()`.
--   [📣 @vangware/notify](https://libraries.vangware.com/modules/_vangware_notify.html) - Minimalistic Pub/Sub implementation.
--   [🔁 @vangware/iterables](https://libraries.vangware.com/modules/_vangware_iterables.html) - Iterable and AsyncIterable utils.
--   [👁️‍🗨️ @vangware/parsers](https://libraries.vangware.com/modules/_vangware_parsers.html) - Parsers without nonsense.
--   [🧐 @vangware/predicates](https://libraries.vangware.com/modules/_vangware_predicates.html) - Predicate util functions
--   [⚒️ @vangware/utils](https://libraries.vangware.com/modules/_vangware_utils.html) - Functional utils.
--   [✅ @vangware/test](https://libraries.vangware.com/modules/_vangware_test.html) - Legible deep-equality tests.
--   [📟 @vangware/ansi](https://libraries.vangware.com/modules/_vangware_ansi.html) - Functional CLI ANSI formatter.
--   [❓ @vangware/prompts](https://libraries.vangware.com/modules/_vangware_prompts.html) - CLI interactive prompts.
--   [🚧 @vangware/create-package](https://libraries.vangware.com/modules/_vangware_create_package.html) - Project creation script.
--   [⚙️ @vangware/configs](https://libraries.vangware.com/modules/_vangware_configs.html) - Project configurations.
--   [🏷️ @vangware/types](https://libraries.vangware.com/modules/_vangware_types.html) - Shared types.
+-   [🖇️ react-pair][react_pair] - Util to help with the paired hook pattern in
+    React.
+-   [🖇️ preact-pair][preact_pair] - Util to help with the paired hook pattern in
+    Preact.
+-   [⏲️ @vangware/cron][cron] - Cron Quartz and Cron UNIX expression parser.
+-   [🪟 @vangware/window-open-promise][window-open-promise] - Promised
+    `globalThis.open()`.
+-   [📣 @vangware/notify][notify] - Minimalistic Pub/Sub implementation.
+-   [🔁 @vangware/iterables][iterables] - Iterable and AsyncIterable utils.
+-   [👁️‍🗨️ @vangware/parsers][parsers] - Parsers without nonsense.
+-   [🧐 @vangware/predicates][predicates] - Predicate util functions
+-   [⚒️ @vangware/utils][utils] - Functional utils.
+-   [✅ @vangware/test][test] - Legible deep-equality tests.
+-   [📟 @vangware/ansi][ansi] - Functional CLI ANSI formatter.
+-   [❓ @vangware/prompts][prompts] - CLI interactive prompts.
+-   [🚧 @vangware/create-package][create-package] - Project creation script.
+-   [⚙️ @vangware/configs][configs] - Project configurations.
+-   [🏷️ @vangware/types][types] - Shared types.
+
+<!-- Links -->
+
+[react_pair]: https://vangware.com/libraries/react_pair/
+[preact_pair]: https://vangware.com/libraries/preact_pair/
+[cron]: https://vangware.com/libraries/vangware_cron/
+[window-open-promise]:
+	https://vangware.com/libraries/vangware_window_open_promise/
+[notify]: https://vangware.com/libraries/vangware_notify/
+[iterables]: https://vangware.com/libraries/vangware_iterables/
+[parsers]: https://vangware.com/libraries/vangware_parsers/
+[predicates]: https://vangware.com/libraries/vangware_predicates/
+[utils]: https://vangware.com/libraries/vangware_utils/
+[test]: https://vangware.com/libraries/vangware_test/
+[ansi]: https://vangware.com/libraries/vangware_ansi/
+[prompts]: https://vangware.com/libraries/vangware_prompts/
+[create-package]: https://vangware.com/libraries/vangware_create_package/
+[configs]: https://vangware.com/libraries/vangware_configs/
+[types]: https://vangware.com/libraries/vangware_types/
