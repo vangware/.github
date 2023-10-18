@@ -9,6 +9,7 @@ We embrace bleeding-edge web technologies to create high-quality and long-lastin
 -   [🖇️ preact-pair][preact_pair] - Util to help with the paired hook pattern in
     Preact.
 -   [⏲️ @vangware/cron][cron] - Cron Quartz and Cron UNIX expression parser.
+-   [↔️ @vangware/diff][diff] - Deep diffing utility.
 -   [🪟 @vangware/window-open-promise][window-open-promise] - Promised
     `globalThis.open()`.
 -   [📣 @vangware/notify][notify] - Minimalistic Pub/Sub implementation.
@@ -28,6 +29,7 @@ We embrace bleeding-edge web technologies to create high-quality and long-lastin
 [react_pair]: https://vangware.com/libraries/react_pair/
 [preact_pair]: https://vangware.com/libraries/preact_pair/
 [cron]: https://vangware.com/libraries/vangware_cron/
+[diff]: https://vangware.com/libraries/vangware_diff/
 [window-open-promise]:
 	https://vangware.com/libraries/vangware_window_open_promise/
 [notify]: https://vangware.com/libraries/vangware_notify/
@@ -41,3 +43,4 @@ We embrace bleeding-edge web technologies to create high-quality and long-lastin
 [create-package]: https://vangware.com/libraries/vangware_create_package/
 [configs]: https://vangware.com/libraries/vangware_configs/
 [types]: https://vangware.com/libraries/vangware_types/
+[vangware]: https://vangware.com
